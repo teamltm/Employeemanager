@@ -1,0 +1,22 @@
+
+<table class="table table-bordered">
+    <thead>
+    <tr>
+        <th>id</th>
+        <th>Name</th>
+        <th>Maker</th>
+        <th>Price</th>
+        <th>MadeIn</th>
+    </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat ="product in $ctrl.getAll.data track by $index">
+            <td><a data-ui-sref="detail({id: product.id})"> {{product.id}}</a></td>
+            <td>{{product.name}}</td>
+            <td>{{product.maker}}</td>
+            <td>{{product.price}}</td>
+            <td>{{product.madeIn}}</td>
+        </tr>
+    </tbody>
+</table>
+

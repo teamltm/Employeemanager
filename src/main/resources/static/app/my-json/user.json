@@ -1,0 +1,85 @@
+[
+  {
+    "id": "1",
+    "name": "DELL501",
+    "imageUrl": "img/DELL/1.jpg",
+    "maker": "DELL",
+    "price": "12.000.000",
+    "madeIn": "China"
+  },
+  {
+    "id": "2",
+    "name": "DELL502",
+    "imageUrl": "img/DELL/2.jpg",
+    "maker": "DELL",
+    "price": "15.000.000",
+    "madeIn": "VietNam"
+  },
+  {
+    "id": "3",
+    "name": "DELL503",
+    "imageUrl": "img/DELL/3.jpg",
+    "maker": "DELL",
+    "price": "14.000.000",
+    "madeIn": "China"
+  },
+  {
+    "id": "4",
+    "name": "ASUS501",
+    "imageUrl": "img/ASUS/4.jpg",
+    "maker": "ASUS",
+    "price": "13.000.000",
+    "madeIn": "MY"
+  },
+  {
+    "id": "5",
+    "name": "ASUS502",
+    "imageUrl": "img/ASUS/5.jpg",
+    "maker": "ASUS",
+    "price": "16.000.000",
+    "madeIn": "China"
+  },
+  {
+    "id": "6",
+    "name": "ASUS506",
+    "imageUrl": "img/ASUS/6.jpg",
+    "maker": "ASUS",
+    "price": "12.000.000",
+    "madeIn": "China"
+  },
+  {
+    "id": "7",
+    "name": "ASUS501",
+    "imageUrl": "img/ASUS/7.jpg",
+    "maker": "ASUS",
+    "price": "11.000.000",
+    "madeIn": "China"
+  },
+  {
+    "id": "8",
+    "name": "HP504",
+    "imageUrl": "img/HP/8.jpg",
+    "maker": "HP",
+    "price": "18.000.000",
+    "madeIn": "China"
+  },
+  {
+    "id": "9",
+    "name": "HP507",
+    "imageUrl": "img/HP/9.jpg",
+    "maker": "HP",
+    "price": "17.000.000",
+    "madeIn": "China"
+  },
+  {
+    "id": "10",
+    "name": "HP509",
+    "imageUrl": "img/HP/10.jpg",
+    "maker": "HP",
+    "price": "19.000.000",
+    "madeIn": "China"
+  },
+  {
+
+  }
+]
